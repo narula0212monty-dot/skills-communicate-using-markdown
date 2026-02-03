@@ -6,5 +6,11 @@
 - [ ] Convert my first blog post into an actual webpage.
       
 ## Review
++ Line Item 1
++ Linw Item 2
++ Linw Item 3
 
 ### Check!
+1. Checkpoint 1
+2. Checkpoint 2
+3. Checkpoint 3
