@@ -7,8 +7,8 @@
       
 ## Review
 + Line Item 1
-+ Linw Item 2
-+ Linw Item 3
++ Line Item 2
++ Line Item 3
 
 ### Check!
 1. Checkpoint 1
